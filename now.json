@@ -1,1 +1,7 @@
-{}
+{
+  "name": "dead-drop-io",
+  "version": 2,
+  "alias": [
+    "dead-drop-io"
+  ]
+}
